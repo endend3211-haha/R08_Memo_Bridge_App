@@ -1,4 +1,4 @@
-# R08 ↔ MemoMind One 브릿지 안드로이드 앱 프로젝트
+# R08 ↔ MemoMind One 브릿지 안드로이드 앱 test
 
 R08 스마트링의 블루투스 HID 입력 신호를 가로채어 **MemoMind One 스마트 글라스**의 메뉴 이동(Up/Down), 항목 선택(Click), 뒤로가기(Back) 동작으로 변환해주는 안드로이드 브릿지 앱입니다.
 
